@@ -1,2 +1,2 @@
-# -data-engineering-zoomcamp
+# Data-engineering-zoomcamp
 Course by DataTalksClub
