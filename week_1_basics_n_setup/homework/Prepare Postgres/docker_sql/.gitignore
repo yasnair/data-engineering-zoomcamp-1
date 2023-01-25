@@ -3,4 +3,5 @@ ny_taxi_postgres_data/
 *.csv
 data_pgadmin/
 .DS_Store
+csv/
 services
